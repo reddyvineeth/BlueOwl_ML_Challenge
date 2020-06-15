@@ -6,7 +6,7 @@ Performed oversampling techniques to improve the minority classes and balance wi
 
 The process took three different algorithms to improve the AUC for the model.
 
-Performed hyperparameter tuning process iteratively using GridsearchCV to idetify the best parameters to eradicate the overfitting in the model.
+Performed hyperparameter tuning process iteratively using GridsearchCV to identify the best parameters and to eradicate the overfitting in the model.
 
 Finally compared the AUC-ROC scores visually of all the models and showed that the XGBoost has the greater performance.
 
